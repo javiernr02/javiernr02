@@ -9,5 +9,4 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiernr02&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
-![Snake animation](https://github.com/javiernr02/javiernr02/blob/output/github-contribution-grid-snake.svg)
-<img src="./src/logoTigre.gif" width="40">
+![Snake animation](https://github.com/javiernr02/javiernr02/blob/output/github-contribution-grid-snake.svg)<img src="./src/logoTigre.gif" width="40">
