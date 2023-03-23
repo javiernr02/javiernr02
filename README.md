@@ -1,4 +1,4 @@
-<img src="./src/codigo.gif">
+<img src="./src/codigoBanner.gif">
 <h1 align="center">Hi, I'm Nunes <img src="./src/saluting-face_1fae1.gif" width="30"></h1>
 
 <h2 align="left"><img src="./src/grafica.png" width="30px"> GitHub Stats</h2>
