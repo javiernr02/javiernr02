@@ -10,3 +10,4 @@
 </div>
 
 ![Snake animation](https://github.com/javiernr02/javiernr02/blob/output/github-contribution-grid-snake.svg)
+<img src="./src/logoTigre.gif" width="40">
